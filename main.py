@@ -46,7 +46,6 @@ def extract_exif():
     text_area.insert(tk.END, resultado + " ")
     text_area.config(state=tk.DISABLED)
 
-
 window = tk.Tk()
 window.title("Amon")
 window.geometry("600x600")           
