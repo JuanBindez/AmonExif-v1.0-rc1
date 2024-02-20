@@ -1,4 +1,4 @@
 altgraph==0.17.3
 ExifRead==3.0.0
-pyinstaller==5.7.0
+pyinstaller
 pyinstaller-hooks-contrib==2022.15
